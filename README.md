@@ -54,7 +54,7 @@ Accomplished **Solution Architect** and **Senior Software Developer** with over 
 ---
 
 ## ⚡ Connect with Me
-* **LinkedIn:** [Your LinkedIn Profile URL]
+* **LinkedIn:** [https://www.linkedin.com/in/dawitchernet/](https://www.linkedin.com/in/dawitchernet)
 * **Portfolio Website:** [https://davidinc.github.io](https://davidinc.github.io)
 * **Email:** [chernetdawitayalew@gmail.com](mailto:chernetdawitayalew@gmail.com)
 
